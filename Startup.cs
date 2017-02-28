@@ -34,7 +34,7 @@ namespace WebApplication9
         {
             services.AddDistributedRedisCache(options =>
             {
-                options.InstanceName = "redis4app-1-ky8mn";
+                options.InstanceName = " redis-1-e6dbw";
                 options.Configuration = "localhost";
             });
 
